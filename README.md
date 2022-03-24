@@ -1,1 +1,2 @@
-# MTL782_DataMining-Assn
+# MTL782 DataMining Assignment
+
